@@ -17,7 +17,7 @@ const config = {
     {
       type: 'dropdown',
       title: 'Distance: ',
-      columnHeader: 'Distance',
+      columnHeader: 'Dist_Filter',
       listItems: [
         '5km & less',
         '6km-15km',
@@ -26,7 +26,7 @@ const config = {
     },
     {
       type: 'dropdown',
-      title: 'Difficulty: ',
+      title: 'Diff_Filter: ',
       columnHeader: 'Difficulty',
       listItems: [
         'Easy',
@@ -38,7 +38,7 @@ const config = {
     {
       type: 'dropdown',
       title: 'Cost: ',
-      columnHeader: 'Cost',
+      columnHeader: 'Cost_Filter',
       listItems: [
         '5km & less',
         '6km-15km',
