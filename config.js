@@ -40,7 +40,7 @@ const config = {
       title: 'Cost: ',
       columnHeader: 'Cost_Filter',
       listItems: [
-        '5km & less',
+        '*From R25 p/p',
         '6km-15km',
         '16km+',
       ],
