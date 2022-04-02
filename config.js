@@ -5,7 +5,7 @@ const config = {
   style: 'mapbox://styles/mapbox/light-v10',
   accessToken:
     'pk.eyJ1IjoiZmVybWlvbiIsImEiOiJjbDFoam1uYXAwNThlM3JsZDc5d3BlbjdtIn0.VfsiH5WkSyECq--9hR4LVw',
-  CSV: './https://docs.google.com/spreadsheets/d/1G6fXi9CuvmECf9T-6V4siVJjCVv6vN5vgGYsDHjXdwU/gviz/tq?tqx=out:csv&sheet=Sheet1',
+  CSV: './Hike_Data1.csv',
   center: [21.28718367062586, -32.766440696658535],
   zoom: 6,
   title: 'Find Your Next Hike',
