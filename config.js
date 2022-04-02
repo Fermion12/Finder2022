@@ -11,7 +11,7 @@ const config = {
   title: 'Find Your Next Hike',
   description:
     'Add somewhere in the search box to see what hikes are nearby or filter by the required. You can search by address to sort the list below by distance. You can also filter the list by language support options, which days a location is open, and whether they have devices to use to complete the survey by phone or online.',
-  sideBarInfo: ['Location_Name', 'Distance', 'Difficulty', 'Cost'],
+  sideBarInfo: ['Location_Name', 'Address', Distance', 'Difficulty', 'Cost'],
   popupInfo: ['Location_Name'],
   filters: [
     {
